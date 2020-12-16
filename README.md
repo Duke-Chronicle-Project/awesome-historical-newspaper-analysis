@@ -16,6 +16,8 @@
 
 - **[hocrjs](https://github.com/kba/hocrjs)** - Visualization of hOCR files.
 
+- **[PAGEviewer](https://www.primaresearch.org/tools/PAGEViewer)** - Visualization of page layout and OCR segmentation for PAGE XML, ALTO XML, FineReader XML and hOCR.
+
 ## Optical character recognition
 
 - **[Tesseract](https://github.com/tesseract-ocr/tesseract) OCR engine** - Open source C++ api and command line tool. Provides basic layout analysis.
@@ -30,7 +32,16 @@
 
 ## Quality evaluation
 
-## Natural language analysis
+- **[Aletheia](https://www.primaresearch.org/tools/Aletheia)** - Ground truth annotation tool.
+
+## Text analysis
+
+- **[scikit-learn](https://scikit-learn.org/stable/index.html)** - Well-documented general purpose ML library.
+
+- **[TidyText](https://github.com/juliasilge/tidytext)** - Manipulation of text data (R package; easy to do the same with pandas).
+
+- **[LdaSeqModel](https://radimrehurek.com/gensim/models/ldaseqmodel.html)** - Dynamic topic modeling in Python.
+
 
 # Literature
 
