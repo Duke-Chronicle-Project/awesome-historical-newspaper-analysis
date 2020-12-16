@@ -45,3 +45,6 @@
 
 # Literature
 
+- **[The Impresso project](https://impresso-project.ch/)** - Text mining 200 years of historical newspapers.
+  - Take a look at their [app](https://impresso-project.ch/theapp/about/) and [blog](https://impresso-project.ch/blog/).
+  - Take a look at their [GitHub Organization](https://github.com/impresso).
